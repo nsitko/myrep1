@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi
 everyone
+=======
+Hello
+Privet
+>>>>>>> 910c7f709e30f85cac1b1749784c49b3afaf9009
